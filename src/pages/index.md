@@ -169,7 +169,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Who Should Read This Book?
+    title: Who Should Join Except.Business?
     grid_items:
       - content: |-
           #### Marketers
