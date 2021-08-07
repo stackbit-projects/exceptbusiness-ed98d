@@ -26,7 +26,7 @@ sections:
     padding_bottom: large
     background_color: none
   - type: grid_section
-    title: 'Used by marketers at:'
+    title: 'Used by executives at:'
     align: center
     grid_items:
       - image: images/logo-1.svg
