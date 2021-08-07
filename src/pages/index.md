@@ -66,7 +66,7 @@ sections:
           - Marketing ads no one can ignore
           - The social media of today
         actions:
-          - label: Start learning
+          - label: Join the club
             url: /thank-you
             style: primary
             has_icon: true
