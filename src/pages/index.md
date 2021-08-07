@@ -178,12 +178,13 @@ sections:
           *   Master digital marketing for any business
           *   Get access to marketing gurus and their tips
           *   Prepare killer presentations and collateral
-      - content: |-
-          #### Designers
-           - Gain big picture insights that affect design
-           - Learn how your design can inspire action
-           - Make advertisements that convert
-           - Create digital assets for the right audience
+      - content: |
+          #### Startuppers
+
+          *   Gain big picture insights that affect design
+          *   Learn how your design can inspire action
+          *   Make advertisements that convert
+          *   Create digital assets for the right audience
       - content: |
           #### Executives
 
