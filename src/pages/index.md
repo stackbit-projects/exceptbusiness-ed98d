@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The Club Of Businessmen With Active Life
+    title: The Club Of Businessmen Living Life
     subtitle: Live the life that drives success
     content: >
       **We are not a usual business club**. Except.Business is your go-to guide
