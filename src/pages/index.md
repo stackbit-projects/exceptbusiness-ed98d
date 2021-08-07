@@ -7,11 +7,10 @@ sections:
     content: >
       **We are not a usual business club**. Except.Business is your go-to guide
       to harmonious living and informal networking with successful entrepreneurs
-      who are passionate about real active life and all the experiences it
-      provides. Find out how people from all over the world combine effective
-      business, active lifestyles, relaxation, and exceptional experiences. The
-      wisdom of the entrepreneurial community, automatic translation of
-      communication from many languages.
+      who are passionate about real active life. Find out how people from all
+      over the world combine effective business, active lifestyles, relaxation,
+      and exceptional experiences. The wisdom of the entrepreneurial community,
+      automatic translation of communication from many languages.
     actions:
       - label: Join the club
         url: /pricing
