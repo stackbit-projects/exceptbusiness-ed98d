@@ -4,10 +4,14 @@ sections:
   - type: hero_section
     title: The Lifestyle Tricks No Book Can Teach You
     subtitle: Your community to active harmonic lifestyle in the real business world.
-    content: |-
-      This book is your go-to guide for all marketing channels. Learn how to
-      create effective landing pages, compelling ads, creative copywriting and
-      converting marketing materials for any business.
+    content: >
+      Except Business club is your go-to guide for harmonic life and informal
+      networking with successful entrepreneurs. Learn how people
+
+      from around the world combine effective business, active lifestyle,
+      relaxation and exceptional experiences. Group wisdom from around the
+      world.
+       
     actions:
       - label: Get the book
         url: /pricing
