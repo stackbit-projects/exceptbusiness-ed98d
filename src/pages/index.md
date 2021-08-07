@@ -6,10 +6,12 @@ sections:
     subtitle: Lifestyle that drives success
     content: >
       **We are not a usual business club**. Except.Business is your go-to guide
-      for harmonic life and informal networking with successful entrepreneurs.
-      Learn how people from around the world combine effective business, active
-      lifestyle, relaxation and exceptional experiences. Entrepreneurs community
-      wisdom and informal networking, automatic translation from many languages.
+      to harmonious living and informal networking with successful entrepreneurs
+      who are passionate about real active life and all the experiences it
+      provides. Find out how people from all over the world combine effective
+      business, active lifestyles, relaxation, and exceptional experiences.
+      Entrepreneurial community wisdom, automatic messages translation from many
+      languages.
     actions:
       - label: Join the club
         url: /pricing
