@@ -6,14 +6,14 @@ sections:
     subtitle: Lifestyle that drives success
     content: >
       **We are not a usual business club**. Why "Except".Business? We share
-      lifestyles, experiences and personalities without talking about the
-      business to meet each other and build cooperation in a different way. It's
-      your go-to guide to harmonious living and informal networking with
-      successful entrepreneurs who are passionate about real active life. Find
-      out how people from all over the world combine effective business, active
-      lifestyles, relaxation, and exceptional experiences. The wisdom of the
-      entrepreneurial community, automatic translation of communication from
-      many languages.
+      lifestyles, experiences and personalities without talking about our
+      business directly to get to know each other and build collaborations in a
+      different way. It's your go-to guide to harmonious living and informal
+      networking with successful entrepreneurs who are passionate about real
+      active life. Find out how people from all over the world combine effective
+      business, active lifestyles, relaxation, and exceptional experiences. The
+      wisdom of the entrepreneurial community, automatic translation of
+      communication from many languages.
     actions:
       - label: Join the club
         url: /pricing
