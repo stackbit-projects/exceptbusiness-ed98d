@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: The Lifestyle Tricks No Book Can Teach You
-    subtitle: Your community to active harmonic lifestyle in the real world.
+    subtitle: Your community to active harmonic lifestyle in the real business world.
     content: |-
       This book is your go-to guide for all marketing channels. Learn how to
       create effective landing pages, compelling ads, creative copywriting and
