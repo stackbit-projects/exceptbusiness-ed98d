@@ -172,7 +172,7 @@ sections:
     title: Who Should Join Except.Business?
     grid_items:
       - content: |
-          #### Business Owners
+          #### Business owners
 
           *   Learn how all of the marketing pieces fit together
           *   Master digital marketing for any business
