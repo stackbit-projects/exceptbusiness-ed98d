@@ -9,7 +9,7 @@ sections:
       for harmonic life and informal networking with successful entrepreneurs.
       Learn how people from around the world combine effective business, active
       lifestyle, relaxation and exceptional experiences. Entrepreneurs community
-      wisdom and informal networking.
+      wisdom and informal networking, automatic translation from many languages.
     actions:
       - label: Join the club
         url: /pricing
