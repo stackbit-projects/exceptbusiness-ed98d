@@ -207,7 +207,7 @@ sections:
   - type: features_section
     features:
       - title: What’s Inside
-        subtitle: 'Brandon Guidelines, Marketing Guru'
+        subtitle: 'Anatol Myshkin, Psychedel co-founder'
         content: |-
           **Marketing in the real world** is very different than what we learn
           at school. If you've recently graduated and are making your first
