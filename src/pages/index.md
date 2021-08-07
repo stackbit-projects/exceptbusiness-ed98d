@@ -9,13 +9,13 @@ sections:
       personalities without talking about our business directly to get to know
       each other and build collaborations in a different way. It's your go-to
       guide to harmonious living and informal networking with successful
-      entrepreneurs.
+      entrepreneurs from around the world.
 
 
-      **We are not a usual business club**. Find out how people from all over
-      the world combine effective business, active lifestyles, relaxation, and
-      exceptional experiences. The wisdom of the entrepreneurial community,
-      automatic translation of communication from many languages.
+      **We are not a usual business club**. Meet people combining effective
+      business, active lifestyles, relaxation, and exceptional experiences. The
+      wisdom of the entrepreneurial community, automatic translation of
+      communication from many languages.
     actions:
       - label: Join the club
         url: /pricing
