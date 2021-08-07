@@ -83,8 +83,10 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: |-
-          “This book is inspiring and practical. It’s thought-provoking and full
+      - title: >-
+          “Except.Business club is inspiring and practical. It’s
+          thought-provoking and full
+
           of examples which definitely motivates me”
         subtitle: 'Hilary Ouse, Sr. Marketing Manager at Company'
         image: images/hilary-ouse.png
