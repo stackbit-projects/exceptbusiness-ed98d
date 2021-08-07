@@ -9,7 +9,6 @@ sections:
       personalities without talking about our business directly to get to know
       each other and build collaborations in a different way.
 
-
       It's your go-to guide to harmonious living and informal networking with
       successful entrepreneurs from around the world.
 
