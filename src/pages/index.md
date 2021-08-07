@@ -102,11 +102,11 @@ sections:
   - type: grid_section
     title: Full Membership Overview
     grid_items:
-      - content: |-
+      - content: |
           ### Know Your Audience
 
           Discovery, research and pure intuition: How to slice and dice all the
-          information you can gather about your customers.
+          information you can gather about your customers. Проверка
       - content: >-
           ### Performance Marketing
 
