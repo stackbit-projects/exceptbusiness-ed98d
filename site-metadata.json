@@ -45,7 +45,7 @@
         "logo": "images/logo.svg",
         "logo_alt": "Marketing Playbook logo",
         "has_primary_nav": true,
-        "primary_nav_title": "Company",
+        "primary_nav_title": "Except.Business",
         "primary_nav_links": [
             {
                 "label": "Story",
