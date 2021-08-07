@@ -9,9 +9,9 @@ sections:
       to harmonious living and informal networking with successful entrepreneurs
       who are passionate about real active life and all the experiences it
       provides. Find out how people from all over the world combine effective
-      business, active lifestyles, relaxation, and exceptional experiences.
-      Entrepreneurial community wisdom, automatic messages translation from many
-      languages.
+      business, active lifestyles, relaxation, and exceptional experiences. The
+      wisdom of the entrepreneurial community, automatic translation of
+      communication from many languages.
     actions:
       - label: Join the club
         url: /pricing
