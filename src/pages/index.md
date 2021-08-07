@@ -7,10 +7,9 @@ sections:
     content: >
       **Why "Except".business?** We share lifestyles, experiences and
       personalities without talking about our business directly to get to know
-      each other and build collaborations in a different way.
-
-      It's your go-to guide to harmonious living and informal networking with
-      successful entrepreneurs from around the world.
+      each other and build collaborations in a different way. It's your go-to
+      guide to harmonious living and informal networking with successful
+      entrepreneurs from around the world.
 
 
       **We are not a usual business club**. Meet people combining effective
