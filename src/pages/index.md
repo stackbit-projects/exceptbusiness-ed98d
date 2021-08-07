@@ -231,7 +231,7 @@ sections:
   - type: cta_section
     title: Get the membership today
     actions:
-      - label: Get the e-book
+      - label: Join the club
         url: /pricing
         style: primary
     actions_position: bottom
