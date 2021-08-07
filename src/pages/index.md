@@ -5,12 +5,15 @@ sections:
     title: The Club Of Businessmen Living Real Life
     subtitle: Lifestyle that drives success
     content: >
-      **We are not a usual business club**. Except.Business is your go-to guide
-      to harmonious living and informal networking with successful entrepreneurs
-      who are passionate about real active life. Find out how people from all
-      over the world combine effective business, active lifestyles, relaxation,
-      and exceptional experiences. The wisdom of the entrepreneurial community,
-      automatic translation of communication from many languages.
+      **We are not a usual business club**. Why "Except".Business - we are
+      sharing lifestyles, experiences and personalities without talking about
+      the business, we are building cooperation in a different way. It's your
+      go-to guide to harmonious living and informal networking with successful
+      entrepreneurs who are passionate about real active life. Find out how
+      people from all over the world combine effective business, active
+      lifestyles, relaxation, and exceptional experiences. The wisdom of the
+      entrepreneurial community, automatic translation of communication from
+      many languages.
     actions:
       - label: Join the club
         url: /pricing
