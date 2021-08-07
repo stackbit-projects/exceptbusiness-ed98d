@@ -5,7 +5,7 @@ sections:
     title: The Lifestyle Tricks No Book Can Teach You
     subtitle: Live the life that drives success
     content: >
-      **We are not a usual business club**. Except Business is your go-to guide
+      **We are not a usual business club**. Except.Business is your go-to guide
       for harmonic life and informal networking with successful entrepreneurs.
       Learn how people from around the world combine effective business, active
       lifestyle, relaxation and exceptional experiences. Entrepreneurs community
