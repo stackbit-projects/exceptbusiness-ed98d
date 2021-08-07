@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The Lifestyle Club For Active
+    title: 'The Lifestyle Club For Entrepreneur '
     subtitle: Live the life that drives success
     content: >
       **We are not a usual business club**. Except.Business is your go-to guide
