@@ -29,7 +29,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Start Learning",
+                "label": "Join the club",
                 "url": "/thank-you",
                 "style": "primary"
             }
