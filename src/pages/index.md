@@ -56,7 +56,9 @@ sections:
   - type: features_section
     features:
       - title: What’s Inside
-        subtitle: How this book will teach you real world marketing
+        subtitle: >-
+          How this club will informally connect you to active world
+          enterpreneurs
         content: |-
           - All you need to know about PPC
           - How to create a brand that sells
