@@ -217,7 +217,7 @@ sections:
   - type: features_section
     features:
       - title: What’s Inside
-        subtitle: 'Anatol Myshkin, Psychedel co-founder'
+        subtitle: 'Anatol Mn, Except.business co-founder'
         content: |-
           **Marketing in the real world** is very different than what we learn
           at school. If you've recently graduated and are making your first
