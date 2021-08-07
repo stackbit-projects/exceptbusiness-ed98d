@@ -90,7 +90,7 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Except.Business club is inspiring and practical. It’s
+          “Except.business club is inspiring and practical. It’s
           thought-provoking and full
 
           of examples which definitely motivates me”
