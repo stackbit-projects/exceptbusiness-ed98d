@@ -5,10 +5,9 @@ sections:
     title: The Club Of Businessmen Living Real Life
     subtitle: Lifestyle that drives success
     content: >
-      **Why "Except".Business?** We share lifestyles, experiences and
+      **Why "Except".business?** We share lifestyles, experiences and
       personalities without talking about our business directly to get to know
       each other and build collaborations in a different way.
-
 
 
       **We are not a usual business club**. It's your go-to guide to harmonious
