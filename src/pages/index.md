@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: The Club Of Businessmen Living Real Life
-    subtitle: Live the life that drives success
+    subtitle: Lifestyle that drives success
     content: >
       **We are not a usual business club**. Except.Business is your go-to guide
       for harmonic life and informal networking with successful entrepreneurs.
