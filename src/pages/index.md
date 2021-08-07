@@ -14,7 +14,7 @@ sections:
 
       **We are not a usual business club**. Meet people combining effective
       business, active lifestyles, relaxation, and exceptional experiences. The
-      wisdom of the entrepreneurial community, automatic translation of
+      wisdom of the entrepreneurial community. Automatic translation of
       communication from many languages.
     actions:
       - label: Join the club
