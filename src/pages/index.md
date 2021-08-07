@@ -175,7 +175,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Who Should Join Except.Business?
+    title: Who Should Join Except.business?
     grid_items:
       - content: |
           #### Business owners
