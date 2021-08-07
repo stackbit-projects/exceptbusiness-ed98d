@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: The Lifestyle Tricks No Book Can Teach You
-    subtitle: Your community to active harmonic lifestyle in the real business world.
+    subtitle: Live the life that drives success
     content: >
       Except Business club is your go-to guide for harmonic life and informal
       networking with successful entrepreneurs. Learn how people
