@@ -11,7 +11,7 @@ sections:
       lifestyle, relaxation and exceptional experiences. Group wisdom from
       around the world.
     actions:
-      - label: Get the membership
+      - label: Join the club
         url: /pricing
         style: primary
         has_icon: true
